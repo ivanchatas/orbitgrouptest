@@ -16,6 +16,7 @@ import { FormComponent } from './form/form.component';
 export class StudentComponent implements OnInit {
 
   students: Student[] = [];
+  student: Student;
 
   constructor(
     private modalService: NgbModal,
@@ -23,6 +24,10 @@ export class StudentComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
+    this.fetchStudents();
+  }
+
+  fetchStudents(): void {
     this.studentService.getAll()
     .subscribe(response => {
       this.students = response;
@@ -38,10 +43,15 @@ export class StudentComponent implements OnInit {
       keyboard: false,
     });
     ref.componentInstance.id = id;
+    ref.result.then(response => {
+      this.fetchStudents();
+    });
   }
 
   delete(id: number): void {
     this.studentService.delete(id)
-    .subscribe();
+    .subscribe(response => {
+      this.fetchStudents();
+    });
   }
 }
