@@ -1,0 +1,12 @@
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\bin\Debug\netcoreapp3.1\orbitgrouptest.Data.deps.json
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\bin\Debug\netcoreapp3.1\orbitgrouptest.Data.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.csprojAssemblyReference.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.AssemblyInfoInputs.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.AssemblyInfo.cs
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\bin\Debug\netcoreapp3.1\orbitgrouptest.Data.pdb
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.pdb
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.csproj.CoreCompileInputs.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.csproj.CopyComplete
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Data\obj\Debug\netcoreapp3.1\orbitgrouptest.Data.pdb

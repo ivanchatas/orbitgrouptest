@@ -1,0 +1,9 @@
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.deps.json
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.pdb
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\obj\Debug\netcoreapp3.1\orbitgrouptest.Transversal.csprojAssemblyReference.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\obj\Debug\netcoreapp3.1\orbitgrouptest.Transversal.AssemblyInfoInputs.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\obj\Debug\netcoreapp3.1\orbitgrouptest.Transversal.AssemblyInfo.cs
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\obj\Debug\netcoreapp3.1\orbitgrouptest.Transversal.csproj.CoreCompileInputs.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\obj\Debug\netcoreapp3.1\orbitgrouptest.Transversal.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Transversal\obj\Debug\netcoreapp3.1\orbitgrouptest.Transversal.pdb

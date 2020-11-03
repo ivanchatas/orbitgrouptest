@@ -1,0 +1,14 @@
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Business.deps.json
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Business.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Business.pdb
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Data.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Data.pdb
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\bin\Debug\netcoreapp3.1\orbitgrouptest.Transversal.pdb
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.csprojAssemblyReference.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.AssemblyInfoInputs.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.AssemblyInfo.cs
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.csproj.CoreCompileInputs.cache
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.csproj.CopyComplete
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.dll
+D:\Repositorio\orbitgrouptest\orbitgrouptest.Business\obj\Debug\netcoreapp3.1\orbitgrouptest.Business.pdb
