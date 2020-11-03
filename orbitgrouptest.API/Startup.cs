@@ -25,6 +25,7 @@ namespace orbitgrouptest.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddCors();
 
             services.AddDbContext<Context>(options =>
                 options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
@@ -51,6 +52,15 @@ namespace orbitgrouptest.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            // Shows UseCors with CorsPolicyBuilder.
+            app.UseCors(builder =>
+            {
+                builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+            });
 
             app.UseAuthorization();
 

@@ -5,7 +5,7 @@
   </div>
 </div>
 <section>
-  <p-table [value]="students">
+  <p-table [value]="students" class="table">
     <ng-template pTemplate="header">
         <tr>
             <th>Username</th>
@@ -13,18 +13,19 @@
             <th>Last Name</th>
             <th>Age</th>
             <th>Career</th>
+            <th></th>
         </tr>
     </ng-template>
     <ng-template pTemplate="body" let-student>
         <tr>
             <td>{{student.username}}</td>
-            <td>{{student.FirstName}}</td>
-            <td>{{student.LastName}}</td>
-            <td>{{student.Age}}</td>
-            <td>{{student.Career}}</td>
+            <td>{{student.firstName}}</td>
+            <td>{{student.lastName}}</td>
+            <td>{{student.age}}</td>
+            <td>{{student.career}}</td>
             <td>
-              <button type="button" (click)="studentForm(student.Id)">Editar</button>
-              <button type="button" (click)="delete(student.Id)">Eliminar</button>
+              <button type="button" (click)="studentForm(student.id)">Editar</button>
+              <button type="button" (click)="delete(student.id)">Eliminar</button>
             </td>
         </tr>
     </ng-template>

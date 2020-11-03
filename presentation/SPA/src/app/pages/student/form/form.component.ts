@@ -68,31 +68,31 @@ export class FormComponent implements OnInit {
 
   private buildForm(): void {
     this.form = this.formBuilder.group({
-      Id: 0,
-      Username: [ '',
+      id: 0,
+      username: [ '',
         [
           Validators.required,
           Validators.maxLength(this.formProperties.Username.maxCaracteres),
         ],
       ],
-      FirstName: [ '',
+      firstName: [ '',
         [
           Validators.required,
           Validators.maxLength(this.formProperties.Username.maxCaracteres),
         ],
       ],
-      LastName: [ '',
+      lastName: [ '',
         [
           Validators.required,
           Validators.maxLength(this.formProperties.Username.maxCaracteres),
         ],
       ],
-      Age: [ '',
+      age: [ '',
         [
           Validators.required,
         ],
       ],
-      Career: [ '',
+      career: [ '',
         [
           Validators.required,
           Validators.maxLength(this.formProperties.Career.maxCaracteres),
